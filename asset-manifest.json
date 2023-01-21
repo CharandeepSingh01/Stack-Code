@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Stack-Code/static/css/main.dac41291.css",
+    "main.js": "/Stack-Code/static/js/main.3092feca.js",
+    "index.html": "/Stack-Code/index.html",
+    "main.dac41291.css.map": "/Stack-Code/static/css/main.dac41291.css.map",
+    "main.3092feca.js.map": "/Stack-Code/static/js/main.3092feca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac41291.css",
+    "static/js/main.3092feca.js"
+  ]
+}
